@@ -9,7 +9,8 @@ User can add the task in the popup, and can set the countdown time interval in t
 
 Instructions:
 
-1. In the popup window, lick 'Add Task" to add a task to be finished. 
+1. In the popup window, click 'Add Task" to add a task to be finished. 
 2. Right click the icon to open options page to set the time interval for the task. 
 3. In the popup window, click 'Start Timer' to start the timer. Or click 'Pause Timer' to pause the countdown. Then click 'Start Timer' to continue. 
 4. In the popup window, click 'Reset Timer' to restart the timer. 
+5. In the popup window, click 'X' that next to the task to delete the task when finish or no longer needs the task. 
