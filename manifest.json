@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Hourglass",
+  "version": "1.0.0",
+  "description": "Helps you focus and get things done!",
+  "icons": {
+    "16": "image/hourglass.png",
+    "48": "image/hourglass.png",
+    "128": "image/hourglass.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "image/hourglass.png",
+      "24": "image/hourglass.png",
+      "32": "image/hourglass.png"
+    },
+    "default_title": "Hourglass",
+    "default_popup": "popup/popup.html"
+  },
+  "permissions": ["storage", "alarms", "notifications"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "options_page": "options/options.html"
+}

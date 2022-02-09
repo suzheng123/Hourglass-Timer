@@ -1,0 +1,33 @@
+body {
+  background-color: #b4cddc;
+}
+
+h1 {
+  text-align: center;
+  margin: 10px;
+  color: #0f4363;
+}
+
+h2 {
+  color: #0f4363;
+}
+
+input {
+  outline: none;
+  border: none;
+  border-radius: 4px;
+  margin: 5px;
+  width: 130px;
+  padding: 10px;
+}
+
+button {
+  outline: none;
+  border: none;
+  border-radius: 4px;
+  height: 35px;
+  width: 100px;
+  color: steelblue;
+  margin-top: 15px;
+  cursor: pointer;
+}
